@@ -1,0 +1,23 @@
+{
+  "name": "mahlstrom/IceCast",
+  "description": "Getting info from IceCast server",
+  "keywords": [
+    "icecast"
+  ],
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Magnus Ahlström",
+      "email": "mahlstrom@atuin.se",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.0.0"
+  },
+  "autoload": {
+    "psr-4":{
+      "mahlstrom\\IceCast\\":"src/IceCast"
+    }
+  }
+}
