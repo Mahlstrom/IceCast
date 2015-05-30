@@ -17,7 +17,7 @@
   },
   "autoload": {
     "psr-4":{
-      "mahlstrom\\IceCast\\":"src/IceCast"
+      "mahlstrom\\IceCast\\":"src"
     }
   }
 }
